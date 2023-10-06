@@ -1,0 +1,199 @@
+INFO 2023/9/28 02:13:34  launch with argv [/usr/share/typora/Typora]
+INFO 2023/9/28 02:13:34  launchFromDiffVersion, pre version is undefined
+INFO 2023/9/28 02:13:34  start LM in devVersion=false
+INFO 2023/9/28 02:13:34  [Raven] instanceKey = ce55fa86-06dc-44ff-ad1d-c85b3df4476f
+INFO 2023/9/28 02:13:34  [watch L]
+INFO 2023/9/28 02:13:34  ls put SLicense
+INFO 2023/9/28 02:13:34  [L] Read from incorrupted InstallDate
+INFO 2023/9/28 02:13:34  writeInstallDate fromBTime=true
+INFO 2023/9/28 02:13:34  overwriteThemeFolder
+INFO 2023/9/28 02:13:34  ------------------start------------------
+INFO 2023/9/28 02:13:34  typora version: 1.7.5
+INFO 2023/9/28 02:13:34  undefined
+INFO 2023/9/28 02:13:34  ls put IDate
+INFO 2023/9/28 02:13:34  [L] installDate is 9/28/2023, trail remains: 15 days
+INFO 2023/9/28 02:13:34  [watch L] hasL: false
+INFO 2023/9/28 02:13:34  [Raven] userId = 8dbf005d-dacb-4f9f-9c3b-af3dd99f1b45
+INFO 2023/9/28 02:13:34  synced recovery
+user-dict.json not found
+INFO 2023/9/28 02:13:34  [focus] 1
+INFO 2023/9/28 02:13:34  handle document.loadData
+INFO 2023/9/28 02:13:34  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2023/9/28 02:13:34  [RenderProcess 1][Log] reset NodeMap
+INFO 2023/9/28 02:13:34  synced recovery
+INFO 2023/9/28 02:13:35  [RenderProcess 1][Log] onBecomeActive
+INFO 2023/9/28 02:13:35  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2023/9/28 02:13:38  [blur] 1
+INFO 2023/9/28 02:13:38  [win] blur
+INFO 2023/9/28 02:13:38  [focus] 2
+INFO 2023/9/28 02:14:05  request https://store.typora.io/api/client/activate
+INFO 2023/9/28 02:14:06  [License] response code is 0
+INFO 2023/9/28 02:14:06  ls put SLicense
+INFO 2023/9/28 02:14:08  [focus] 1
+INFO 2023/9/28 02:14:15  [blur] 1
+INFO 2023/9/28 02:14:15  [win] blur
+INFO 2023/9/28 02:15:03  [focus] 1
+INFO 2023/9/28 02:15:06  [blur] 1
+INFO 2023/9/28 02:15:06  [win] blur
+INFO 2023/9/28 02:15:15  [focus] 1
+INFO 2023/9/28 02:15:16  [blur] 1
+INFO 2023/9/28 02:15:16  [win] blur
+INFO 2023/9/28 02:15:55  [focus] 1
+INFO 2023/9/28 02:16:03  [blur] 1
+INFO 2023/9/28 02:16:03  [win] blur
+INFO 2023/9/28 02:16:07  [focus] 1
+INFO 2023/9/28 02:16:16  synced recovery
+INFO 2023/9/28 02:16:16  ----------------before-quit-----------------
+INFO 2023/9/28 02:16:16  ------------------will-quit------------------
+INFO 2023/9/28 02:16:16  -----------------quit------------------
+INFO 2023/9/28 02:16:16  closeLogging
+INFO 2023/9/28 02:16:21  launch with argv [/usr/share/typora/Typora]
+INFO 2023/9/28 02:16:21  start LM in devVersion=false
+INFO 2023/9/28 02:16:21  [Raven] instanceKey = b7914bae-1568-40eb-ad2c-31737e33e4fb
+INFO 2023/9/28 02:16:21  [watch L]
+INFO 2023/9/28 02:16:21  [L] installDate is 9/28/2023, trail remains: 15 days
+INFO 2023/9/28 02:16:21  [watch L] hasL: true
+INFO 2023/9/28 02:16:21  ------------------start------------------
+INFO 2023/9/28 02:16:21  typora version: 1.7.5
+INFO 2023/9/28 02:16:21  undefined
+user-dict.json not found
+INFO 2023/9/28 02:16:21  [Raven] userId = 8dbf005d-dacb-4f9f-9c3b-af3dd99f1b45
+INFO 2023/9/28 02:16:21  synced recovery
+INFO 2023/9/28 02:16:21  [focus] 1
+INFO 2023/9/28 02:16:22  handle document.loadData
+INFO 2023/9/28 02:16:22  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2023/9/28 02:16:22  [RenderProcess 1][Log] reset NodeMap
+INFO 2023/9/28 02:16:22  synced recovery
+INFO 2023/9/28 02:16:22  [RenderProcess 1][Log] onBecomeActive
+INFO 2023/9/28 02:16:22  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2023/9/28 02:16:33  [blur] 1
+INFO 2023/9/28 02:16:33  [win] blur
+INFO 2023/9/28 02:16:33  [blur] 1
+INFO 2023/9/28 02:16:33  [win] blur
+INFO 2023/9/28 02:16:43  [focus] 1
+INFO 2023/9/28 02:16:45  [blur] 1
+INFO 2023/9/28 02:16:45  [win] blur
+INFO 2023/9/28 02:16:50  got argv [/usr/bin/typora, --allow-file-access-from-files, --desktop-startup-id=arch;1695838610;560368;4647_TIME873575, /home/ruixi/.config/Typora/themes/typora-nord-theme-master/README.md] from secondary instance
+INFO 2023/9/28 02:16:50  addRecentDocument
+INFO 2023/9/28 02:16:50  synced recovery
+INFO 2023/9/28 02:16:50  [focus] 2
+INFO 2023/9/28 02:16:50  secondary instance would exit
+INFO 2023/9/28 02:16:51  handle document.loadData
+INFO 2023/9/28 02:16:51  [RenderProcess 3][Log] [UndoManager] reset commandStack
+INFO 2023/9/28 02:16:51  [RenderProcess 3][Log] reset NodeMap
+INFO 2023/9/28 02:16:51  [RenderProcess 3][Log] readContentFrom /home/ruixi/.config/Typora/themes/typora-nord-theme-master/README.md
+INFO 2023/9/28 02:16:51  synced recovery
+INFO 2023/9/28 02:16:52  [RenderProcess 3][Log] onBecomeActive
+INFO 2023/9/28 02:16:52  [RenderProcess 3][Log] File.activeWindow = true
+INFO 2023/9/28 02:17:02  File.option.noHintForOpenLink=true;
+INFO 2023/9/28 02:17:35  [blur] 2
+INFO 2023/9/28 02:17:35  [win] blur
+INFO 2023/9/28 02:17:53  [focus] 2
+INFO 2023/9/28 02:17:55  [blur] 2
+INFO 2023/9/28 02:17:55  [win] blur
+INFO 2023/9/28 02:17:55  [focus] 2
+INFO 2023/9/28 02:17:56  [blur] 2
+INFO 2023/9/28 02:17:56  [win] blur
+INFO 2023/9/28 02:18:07  synced recovery
+INFO 2023/9/28 02:18:13  [focus] 2
+INFO 2023/9/28 02:18:36  got argv [/usr/bin/typora, --allow-file-access-from-files, --desktop-startup-id=arch;1695838716;110921;1542_TIME979126] from secondary instance
+INFO 2023/9/28 02:18:36  synced recovery
+INFO 2023/9/28 02:18:36  [focus] 3
+INFO 2023/9/28 02:18:36  secondary instance would exit
+INFO 2023/9/28 02:18:36  handle document.loadData
+INFO 2023/9/28 02:18:36  [RenderProcess 5][Log] [UndoManager] reset commandStack
+INFO 2023/9/28 02:18:36  [RenderProcess 5][Log] reset NodeMap
+INFO 2023/9/28 02:18:36  synced recovery
+INFO 2023/9/28 02:18:36  [RenderProcess 5][Log] onBecomeActive
+INFO 2023/9/28 02:18:36  [RenderProcess 5][Log] File.activeWindow = true
+INFO 2023/9/28 02:18:48  [blur] 3
+INFO 2023/9/28 02:18:48  [win] blur
+INFO 2023/9/28 02:18:51  [focus] 3
+INFO 2023/9/28 02:18:52  [blur] 3
+INFO 2023/9/28 02:18:52  [win] blur
+INFO 2023/9/28 02:19:02  [focus] 3
+INFO 2023/9/28 02:19:06  [blur] 3
+INFO 2023/9/28 02:19:06  [win] blur
+INFO 2023/9/28 02:19:59  [focus] 3
+INFO 2023/9/28 02:20:05  got argv [/usr/bin/typora, --allow-file-access-from-files, --desktop-startup-id=arch;1695838805;318139;1542_TIME1068333] from secondary instance
+INFO 2023/9/28 02:20:05  synced recovery
+INFO 2023/9/28 02:20:05  [focus] 4
+INFO 2023/9/28 02:20:05  secondary instance would exit
+INFO 2023/9/28 02:20:06  handle document.loadData
+INFO 2023/9/28 02:20:06  [RenderProcess 7][Log] [UndoManager] reset commandStack
+INFO 2023/9/28 02:20:06  [RenderProcess 7][Log] reset NodeMap
+INFO 2023/9/28 02:20:06  synced recovery
+INFO 2023/9/28 02:20:06  [RenderProcess 7][Log] onBecomeActive
+INFO 2023/9/28 02:20:06  [RenderProcess 7][Log] File.activeWindow = true
+INFO 2023/9/28 02:20:12  updateTheme
+INFO 2023/9/28 02:20:15  updateTheme
+INFO 2023/9/28 02:20:17  updateTheme
+INFO 2023/9/28 02:20:20  updateTheme
+INFO 2023/9/28 02:20:22  [blur] 4
+INFO 2023/9/28 02:20:22  [win] blur
+INFO 2023/9/28 02:20:31  got argv [/usr/bin/typora, --allow-file-access-from-files, --desktop-startup-id=arch;1695838831;106535;4647_TIME1094121, /home/ruixi/.config/Typora/themes/README.md] from secondary instance
+INFO 2023/9/28 02:20:31  addRecentDocument
+INFO 2023/9/28 02:20:31  synced recovery
+INFO 2023/9/28 02:20:31  [focus] 5
+INFO 2023/9/28 02:20:31  secondary instance would exit
+INFO 2023/9/28 02:20:31  handle document.loadData
+INFO 2023/9/28 02:20:31  [RenderProcess 9][Log] [UndoManager] reset commandStack
+INFO 2023/9/28 02:20:31  [RenderProcess 9][Log] reset NodeMap
+INFO 2023/9/28 02:20:31  [RenderProcess 9][Log] readContentFrom /home/ruixi/.config/Typora/themes/README.md
+INFO 2023/9/28 02:20:32  synced recovery
+INFO 2023/9/28 02:20:32  [RenderProcess 9][Log] onBecomeActive
+INFO 2023/9/28 02:20:32  [RenderProcess 9][Log] File.activeWindow = true
+INFO 2023/9/28 02:20:41  got argv [/usr/bin/typora, --allow-file-access-from-files, --desktop-startup-id=arch;1695838841;368018;4647_TIME1104383, /home/ruixi/.config/Typora/themes/Readme.md] from secondary instance
+INFO 2023/9/28 02:20:41  addRecentDocument
+INFO 2023/9/28 02:20:41  synced recovery
+INFO 2023/9/28 02:20:41  [focus] 6
+INFO 2023/9/28 02:20:41  secondary instance would exit
+INFO 2023/9/28 02:20:42  handle document.loadData
+INFO 2023/9/28 02:20:42  [RenderProcess 10][Log] [UndoManager] reset commandStack
+INFO 2023/9/28 02:20:42  [RenderProcess 10][Log] reset NodeMap
+INFO 2023/9/28 02:20:42  [RenderProcess 10][Log] readContentFrom /home/ruixi/.config/Typora/themes/Readme.md
+INFO 2023/9/28 02:20:42  synced recovery
+INFO 2023/9/28 02:20:42  [RenderProcess 10][Log] onBecomeActive
+INFO 2023/9/28 02:20:42  [RenderProcess 10][Log] File.activeWindow = true
+INFO 2023/9/28 02:20:50  [focus] 4
+INFO 2023/9/28 02:20:50  [blur] 4
+INFO 2023/9/28 02:20:50  [win] blur
+INFO 2023/9/28 02:20:50  [focus] 4
+INFO 2023/9/28 02:20:52  [focus] 1
+INFO 2023/9/28 02:20:53  synced recovery
+INFO 2023/9/28 02:20:53  ----------------before-quit-----------------
+INFO 2023/9/28 02:20:53  ------------------will-quit------------------
+INFO 2023/9/28 02:20:53  -----------------quit------------------
+INFO 2023/9/28 02:20:53  closeLogging
+INFO 2023/9/28 02:20:57  launch with argv [/usr/share/typora/Typora]
+INFO 2023/9/28 02:20:57  start LM in devVersion=false
+INFO 2023/9/28 02:20:57  [Raven] instanceKey = 74734d63-5f2e-458d-85d8-3b9fa24db522
+INFO 2023/9/28 02:20:58  [watch L]
+INFO 2023/9/28 02:20:58  [L] installDate is 9/28/2023, trail remains: 15 days
+INFO 2023/9/28 02:20:58  [watch L] hasL: true
+INFO 2023/9/28 02:20:58  ------------------start------------------
+INFO 2023/9/28 02:20:58  typora version: 1.7.5
+INFO 2023/9/28 02:20:58  undefined
+user-dict.json not found
+INFO 2023/9/28 02:20:58  [Raven] userId = 8dbf005d-dacb-4f9f-9c3b-af3dd99f1b45
+INFO 2023/9/28 02:20:58  synced recovery
+INFO 2023/9/28 02:20:58  [focus] 1
+INFO 2023/9/28 02:20:58  handle document.loadData
+INFO 2023/9/28 02:20:58  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2023/9/28 02:20:58  [RenderProcess 1][Log] reset NodeMap
+INFO 2023/9/28 02:20:58  synced recovery
+INFO 2023/9/28 02:20:58  [RenderProcess 1][Log] onBecomeActive
+INFO 2023/9/28 02:20:58  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2023/9/28 02:21:03  updateTheme
+INFO 2023/9/28 02:21:35  [blur] 1
+INFO 2023/9/28 02:21:35  [win] blur
+INFO 2023/9/28 02:21:39  [focus] 1
+INFO 2023/9/28 02:21:41  synced recovery
+INFO 2023/9/28 02:22:19  [blur] 1
+INFO 2023/9/28 02:22:19  [win] blur
+INFO 2023/9/28 02:22:20  [focus] 1
+INFO 2023/9/28 02:22:22  synced recovery
+INFO 2023/9/28 02:22:22  ----------------before-quit-----------------
+INFO 2023/9/28 02:22:22  ------------------will-quit------------------
+INFO 2023/9/28 02:22:22  -----------------quit------------------
+INFO 2023/9/28 02:22:22  closeLogging
